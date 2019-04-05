@@ -44,3 +44,16 @@ buck-out/
 \.buckd/
 *.keystore
       
+android/\.project
+
+android/\.settings/org\.eclipse\.buildship\.core\.prefs
+
+sample/android/\.project
+
+sample/android/\.settings/org\.eclipse\.buildship\.core\.prefs
+
+sample/android/app/\.classpath
+
+sample/android/app/\.project
+
+sample/android/app/\.settings/org\.eclipse\.buildship\.core\.prefs
